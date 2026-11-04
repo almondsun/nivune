@@ -21,4 +21,4 @@ tauri-build = { version = "2", features = [] }
 tauri-plugin-dialog = "2"
 tempfile = "3"
 walkdir = "2"
-zip = { version = "2", default-features = false, features = ["deflate"] }
+zip = { version = "9", default-features = false, features = ["deflate"] }
